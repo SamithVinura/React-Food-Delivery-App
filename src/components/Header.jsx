@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Logo from './img/logo.png'
+import Logo from '../../src/img/logo.png'
 import { MdShoppingBasket, MdAdd, MdLogout } from "react-icons/md";
 import Avatar from "../components/img/avatar.png";
 import { motion } from "framer-motion";
