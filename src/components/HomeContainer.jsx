@@ -79,7 +79,7 @@ const HomeContainer = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default HomeContainer
+export default HomeContainer;
